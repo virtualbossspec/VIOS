@@ -103,7 +103,7 @@ def is_left(k):
 
 def is_right(k):
     return k == 1 or k == 26
-
+    
 
 def is_enter(k):
     return k == 105 or k == 5
